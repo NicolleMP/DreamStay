@@ -1,0 +1,15 @@
+# Backend (Spring Boot)
+backend/target/
+backend/.settings/
+backend/.classpath
+backend/.project
+
+# Frontend (Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Geral
+.DS_Store
+*.log
